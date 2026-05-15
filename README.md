@@ -62,6 +62,6 @@
 
 | **GitHub Stats** | **Most Used Languages** |
 | --- | --- |
-| ![BugEliminator's GitHub stats](https://github-readme-stats.vercel.app/api?username=BugEliminator&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugEliminator&layout=compact) |
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BugEliminator&show_icons=true) | ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BugEliminator&layout=compact) |
 
-![GitHub hit](https://komarev.com/ghpvc/?username=BugEliminator&color=black&style=flat-square&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=BugEliminator&color=blue&style=flat-square&label=VISITORS)
