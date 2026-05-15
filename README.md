@@ -63,5 +63,3 @@
 | **GitHub Stats** | **Most Used Languages** |
 | --- | --- |
 | ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=BugEliminator&show_icons=true) | ![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BugEliminator&layout=compact) |
-
-![Visitors](https://komarev.com/ghpvc/?username=BugEliminator&color=blue&style=flat-square&label=VISITORS)
