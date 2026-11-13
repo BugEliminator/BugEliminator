@@ -1,62 +1,116 @@
 ## 👋 안녕하세요, 프론트엔드 개발자 이찬우입니다.
 
-> **"사용자의 불편함을 기술로 해결하고, AI를 도구 삼아 상상을 현실로 만드는 과정을 즐깁니다."**
+> **"문제를 해결하며 서비스의 완성도를 높이는 프론트엔드 개발자입니다."**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chanwoolee74@gmail.com)
 
-*   💼 **Experience:** 실무경험 통해 사용자 중심의 가치를 코드로 구현하고 협업하는 즐거움을 배웠습니다.
-*   🛠 **Tech Focus:** Next.js와 TypeScript를 기반으로, 확장성 있고 유지보수가 용이한 프론트엔드 아키텍처를 고민합니다.
-*   🤖 AI Driven: 학습에 그치지 않고 실제 프로젝트에 적극 도입하여, 아이디어를 빠르게 프로토타입으로 구현하고 문제를 해결하는 과정을 즐깁니다.
+*   💼 **Experience:** Next.js 기반 서비스에서 신규 기능 개발부터 SSR·SEO 개선, 인증 및 운영 오류 대응까지 경험했습니다.
+*   🛠 **Tech Focus:** React·Next.js·TypeScript를 중심으로 데이터 흐름과 예외 상황을 고려한 프론트엔드 구조를 설계하고 구현합니다.
+*   🤖 **Projects:** 팀 프로젝트 Feedbacker와 개인 프로젝트 MAGO를 개발·운영하며, 동적 폼·인증 세션·AI 응답 최적화 등의 문제를 해결해 왔습니다.
 
 ---
+
 
 ### 🛠 Tech Stacks
 
 #### 💻 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-#### 🗂️ State & Data Management
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge) ![MobX](https://img.shields.io/badge/MobX-FF0910?style=for-the-badge&logo=mobx&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+#### 🎨 UI & Forms
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
-#### 🎨 Styling
-![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### 🗂️ State & Data
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-555555?style=for-the-badge)
 
-#### 📝 Learning
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+#### 🛠️ Platform & Tools
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 🤖 AI & Collaboration
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
-### 💼 Experience & Projects
 
-#### 🏢 가방끈 (대학원 커뮤니티) | 2025.10 - 2026.04
-**Next.js, TypeScript, MobX, GraphQL, REST API, Emotion, Tailwind CSS**
-- 주니어 프론트엔드 개발자로서 서비스의 신규 기능 구현 및 전반적인 유지보수를 담당했습니다.
-- **상태 및 데이터 관리:** MobX를 활용한 전역 상태 관리와 GraphQL 및 REST API를 병행 사용하여 효율적인 데이터 연동 구조를 설계했습니다.
-- **UI/UX 구현:** Emotion과 Tailwind CSS를 유연하게 활용하여 디자인 시스템에 맞춘 반응형 인터페이스를 구축하고 최적화했습니다.
-- **유지보수 및 안정화:** 유저 측에서 접수되는 CS 기반의 버그를 분석하고 실시간으로 대응하여 서비스 안정성을 높이고 사용자 경험을 개선했습니다.
+### 💼 Work Experience
 
-#### 🔮 MAGO (AI 기반 타로 서비스) | 2026.04 - 진행중
-**Next.js, TypeScript, Emotion, Framer Motion, Supabase, LLM API**
-- 생성형 AI를 활용하여 개인화된 타로 해석과 한국적 감성의 일러스트를 제공하는 웹 서비스입니다.
-- **멀티 플랫폼 전략:** 웹 기반 반응형 UI로 초기 MVP를 구축하고, 향후 리액트 네이티브(React Native)를 활용한 앱 서비스 확장을 염두에 두고 설계를 진행 중입니다.
-- LLM API를 연동하고 프롬프트 엔지니어링을 통해 사용자 맞춤형 해석 로직을 구현했습니다.
-- Framer Motion을 활용하여 직관적이고 몰입감 있는 인터랙티브 UI를 설계했습니다.
+#### 🏢 아웃스탠더스 (가방끈) | 2025.10 ~ 2026.04
 
-#### ☕ To Tasty (취미 모임 커뮤니티) | 2025.07 - 2025.08
-**TypeScript, Next.js, Zustand, Axios, ...**
-- 커피, 와인 등 취미 기반의 커뮤니티 모임 서비스로, 보안과 사용자 경험 최적화에 집중했습니다.
-- **보안 및 성능:** HttpOnly 쿠키와 Zustand를 결합한 인증 아키텍처를 구축하여 XSS 취약점을 방어하고 불필요한 리렌더링을 최적화했습니다.
-- **UX 개선:** OAuth 2.0 기반 카카오 소셜 로그인을 도입하여 진입 장벽을 낮추고, 로그인 여부에 따른 동적 UI 제어로 온보딩 경험을 개선했습니다.
-- **협업 효율:** Airbnb 코드 컨벤션을 도입하고 ESLint/Prettier 환경 설정을 주도하여 팀 내 코드 일관성과 생산성을 향상시켰습니다.
+대학원생을 위한 커뮤니티·채용·멘토링 플랫폼
 
-#### 🐶 코촉촉 (반려동물 커뮤니티) | 2025.01 - 2025.02
-**TypeScript, React, Next.js, SockJS, Stomp, React Hook Form, Zod**
-- 실시간 소통과 데이터 무결성을 고려한 반려견 보호자 커뮤니티 서비스입니다.
-- SockJS와 STOMP 프로토콜을 도입하여 평균 0.2초 이내의 실시간 채팅 기능을 구현했습니다.
-- React Hook Form과 Zod를 결합하여 클라이언트 단의 유효성 검사를 강화하고 폼 성능을 최적화했습니다.
+**Frontend Developer**
+
+**React · Next.js · TypeScript · MobX · Tailwind CSS · Emotion · MUI · Axios**
+
+- **연구실 탐색 서비스 신규 구축:** 연구실 메인·목록·상세 및 입시·모집 게시판의 반응형 UI와 검색·필터·정렬·북마크 기능 구현. URL Query 기반 검색 조건 동기화 및 SSR 초기 데이터 처리
+- **연구실·커뮤니티 SEO 최적화:** SSR 초기 HTML, 동적 메타데이터·canonical, Schema.org JSON-LD, 동적 sitemap 적용. Google Search Console 기준 커뮤니티 검색 클릭 수 24회 → 3,410회 증가 확인
+- **관리자 CV 대량 조회 안정화:** 50개 이상의 페이지 API 동시 요청으로 발생한 502/503 오류를 분석하고, 5개 단위 배치 처리로 최대 동시 요청 수 제한
+- **크로스 도메인 인증 상태 불일치 개선:** 메인 서비스와 CV 서브도메인 간 로그인 상태 불일치 원인을 분석하고, 기존 인증 API 연동·토큰 검증·로그아웃 쿠키 정리 로직 개선
+
+---
+
+### 🚀 Featured Projects
+
+#### 🌰 Feedbacker | 2026.08 ~ 운영 중
+
+IT 메이커들이 서로 프로젝트를 테스트하고 피드백을 주고받는 QA 품앗이 플랫폼
+
+**Frontend Developer · 프론트엔드 개발 주도 · 6인 팀 (FE 2, BE 3, Designer 1)**
+
+**Next.js · React · TypeScript · TanStack Query · Zustand · React Hook Form · Zod · Tailwind CSS**
+
+🏆 **스위프 웹 15기 데모데이 대상 (2026.10)**
+
+- **프론트엔드 상태 관리 기반 구축:** TanStack Query·Zustand를 도입해 서버 데이터와 인증 전역 상태의 관리 책임 분리
+- **동적 QA 모집 폼 구현:** React Hook Form·Zod 기반 문항별 검증과 useFieldArray·dnd-kit을 활용한 문항 추가·삭제·드래그 정렬 및 다단계 폼 검증 구현
+- **인증 세션 및 토큰 갱신 구조 설계:** 액세스 토큰은 메모리, 리프레시 토큰은 HttpOnly 쿠키로 관리하고 동시 401 응답에 대한 토큰 갱신 단일화 및 요청 재시도 구현
+
+#### 🔮 MAGO | 2026.06 ~ 운영 중
+
+사용자가 선택한 타로 카드와 고민을 바탕으로 개인화된 AI 리딩을 제공하는 서비스
+
+**개인 프로젝트 · 기획·디자인·개발·운영**
+
+**Next.js · React · TypeScript · Supabase · OpenAI API · Zustand · Emotion · Framer Motion**
+
+- **AI 타로 리딩 파이프라인 최적화:** 로컬 환경에서 OpenAI 응답 대기 병목을 확인하고 카드 선택 중 해석 선행 생성 및 병렬 처리 구조를 도입. 내부 반복 테스트 기준 3장 리딩 응답시간 약 25% 단축 (14.89초 → 11.17초)
+- **Supabase 기반 인증 및 계정 연결:** Supabase Auth·SSR 기반 OAuth PKCE 소셜 로그인과 동일 이메일 기존 계정의 카카오 identity 연결 처리
+- **리딩 결과 및 재화 시스템:** Supabase DB 기반 리딩 결과 저장·공유·히스토리 조회, 출석·추천인 보상 및 엽전 차감 기능 구현
+
+---
+
+### 📁 Other Projects
+
+#### ☕ To Tasty | 2025.07 ~ 2025.08
+
+취미 기반 모임 커뮤니티 서비스
+
+**Next.js · TypeScript · Zustand · Axios**
+
+- OAuth 2.0 기반 카카오 로그인 및 HttpOnly 쿠키를 활용한 인증 흐름 구현
+- Airbnb 코드 컨벤션과 ESLint·Prettier 설정을 통한 협업 환경 구축
+
+#### 🐶 코촉촉 | 2024.12 ~ 2025.03
+
+반려견 보호자를 위한 커뮤니티 서비스
+
+**React · Next.js · TypeScript · SockJS · STOMP · React Hook Form · Zod**
+
+- SockJS·STOMP 기반 실시간 채팅 기능 구현
+- React Hook Form·Zod 기반 입력값 검증 및 폼 상태 관리 구현
+
 
 ### 📊 Stats & Activity
 
